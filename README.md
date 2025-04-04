@@ -1,3 +1,5 @@
+Reference paper is located here: https://hal.science/hal-05010725
+
 The code implementing the GS_CS algorithm is located in the `python` folder. It is commented and follows the notations used in the article.
 
 The two experiments described in the article correspond to the notebooks presented here:
